@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreTools", "FerreTools\FerreTools.csproj", "{F223B4D7-A830-418D-ABBE-5D9B0E2B0743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreTools.Data", "FerreTools.Data\FerreTools.Data.csproj", "{EA85900E-619E-48BD-BA19-B47104CBAB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreTools.Business", "FerreTools.Business\FerreTools.Business.csproj", "{1BD0F5CB-BAC3-47B5-A130-7DE03438021C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreTools.Entities", "FerreTools.Entities\FerreTools.Entities.csproj", "{B774E217-1B53-4C84-B723-120E0E0CC197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreTools.DependencyInjection", "FerreTools.DependencyInjection\FerreTools.DependencyInjection.csproj", "{FEA0E356-A1AE-455D-B490-A0090710C18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F223B4D7-A830-418D-ABBE-5D9B0E2B0743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F223B4D7-A830-418D-ABBE-5D9B0E2B0743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F223B4D7-A830-418D-ABBE-5D9B0E2B0743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F223B4D7-A830-418D-ABBE-5D9B0E2B0743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA85900E-619E-48BD-BA19-B47104CBAB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA85900E-619E-48BD-BA19-B47104CBAB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA85900E-619E-48BD-BA19-B47104CBAB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA85900E-619E-48BD-BA19-B47104CBAB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD0F5CB-BAC3-47B5-A130-7DE03438021C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD0F5CB-BAC3-47B5-A130-7DE03438021C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD0F5CB-BAC3-47B5-A130-7DE03438021C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD0F5CB-BAC3-47B5-A130-7DE03438021C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B774E217-1B53-4C84-B723-120E0E0CC197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B774E217-1B53-4C84-B723-120E0E0CC197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B774E217-1B53-4C84-B723-120E0E0CC197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B774E217-1B53-4C84-B723-120E0E0CC197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA0E356-A1AE-455D-B490-A0090710C18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA0E356-A1AE-455D-B490-A0090710C18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA0E356-A1AE-455D-B490-A0090710C18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA0E356-A1AE-455D-B490-A0090710C18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8059212F-DB0A-449D-BB51-A26F0650E2ED}
+	EndGlobalSection
+EndGlobal
